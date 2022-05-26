@@ -12,6 +12,6 @@ def verify(index):
   else:
     print("Taget is not in list .")
 
-numbers= [1,2,3,4,5,6,7,8,9]
-result=linear_search_prc(numbers,8)
+numbers= [10,14,19,26,27,31,33,35,42,44]
+result=linear_search_prc(numbers,35)
 verify(result)             
